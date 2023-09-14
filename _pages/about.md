@@ -16,7 +16,7 @@ I have a keen interest in **High-performance Computing**, **Distributed Systems*
 
 I'm currently actively looking for **Undergraduate Research Opportunities**.
 
-You can find my cv [here](https://github.com/ThreadEater/ThreadEater.github.io/blob/master/files/Resume.pdf).
+You can find my cv [here](https://github.com/ThreadEater/ThreadEater.github.io/files/Resume.pdf).
 
 If you want to reach out me, just send me an [email](mailto: liang.1435@osu.edu).
 
