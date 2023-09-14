@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Shuang Liang"
   avatar           : "profile.png"
-  bio              : "Sophomore Computer Science major at The Ohio State University"
+  bio              : "Sophomore Computer Science major"
+  school           : "The Ohio State University"
   location         : "Columbus, OH"
   employer         :
   pubmed           : 
