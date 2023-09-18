@@ -16,5 +16,7 @@ I'm currently actively looking for **Undergraduate Research Opportunities**.
 
 You can find my cv [here](https://ThreadEater.github.io/files/Resume.pdf).
 
+My Github link is [here]([ThreadEater (Shuang Liang(梁爽)) (github.com)](https://github.com/ThreadEater)).
+
 If you want to reach me out, just send me an [email](mailto: liang.1435@osu.edu).
 
