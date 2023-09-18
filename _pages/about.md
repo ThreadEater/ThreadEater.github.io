@@ -16,5 +16,5 @@ I'm currently actively looking for **Undergraduate Research Opportunities**.
 
 You can find my cv [here](https://ThreadEater.github.io/files/Resume.pdf).
 
-If you want to reach out me, just send me an [email](mailto: liang.1435@osu.edu).
+If you want to reach me out, just send me an [email](mailto: liang.1435@osu.edu).
 
